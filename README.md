@@ -1,1 +1,2 @@
-# PRODIGY_ML_01
+# Prodigy-InfoTech
+This repository contains all the files related to the Prodigy InfoTech Machine Learning Internship Task 01.
